@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;1,300&display=swap');
+
+
+
+body {
+   
+    background-color:rgb(59,127,38);
+    background-size: cover;
+    min-height: 100vh;
+  }
+  div.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left:15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 5rem;
+}
+
+
+    textarea{
+        resize: none;
+        border-radius: 1rem;
+        padding: 1rem;
+    }
+    button{
+
+        margin: 2rem;
+        min-height: 3rem;
+        border: .2rem double rgb(87, 58, 4);
+        border-radius: 50%;
+        font-weight: bold;
+        cursor: pointer;
+        background-color: rgb(137, 222, 137);
+       
+        
+
+
+    }
+
+    div.output{
+       width: 40rem;
+        background-color: white;
+        min-height: 10rem;
+        border: .2rem solid rgb(4, 4, 4);
+        border-radius: 1rem;
+    }
+
+
+    /* footer */
+    /* footer */
+    
+    
+      h4 {
+        font-size: 0.7cm;
+        padding: 20px;
+        padding-top: 20px;
+        text-align: center;
+      }
+      .socialIcon {
+        display: flex;
+        justify-content: center;
+      }
+      .socialIcon a {
+        text-decoration: none;
+        padding: 20px;
+        ;
+        border-radius: 50%;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+      }
+      .socialIcon a i {
+        font-size: 2rem;
+        color:rgb(7, 23, 34)
+        ;
+      }
+      footer {
+        margin-bottom: 50px;
+      
+        border-radius: 25px;
+      }
+      .footerContainer {
+        height: 4cm;
+      }
+      
+      .socialIcon {
+        margin: 0;
+      }
+      h4{
+        margin: 0;
+    text-align: center;
+    color: rgb(7, 23, 34);
+      }
