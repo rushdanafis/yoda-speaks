@@ -8,7 +8,7 @@ The Yoda Speak Translation App is a fun and interactive web application that all
 
 ## How to Use
 
-1. Visit the [Yoda Speak Translation App](https://yodaspeakapp.com) website using your web browser.
+1. Visit the  website using your web browser.
 
 2. Once the app is loaded, you will see a user-friendly interface with a text input box and a "Translate" button.
 
