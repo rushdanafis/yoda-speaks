@@ -20,11 +20,7 @@ The Yoda Speak Translation App is a fun and interactive web application that all
 
 6. To translate another sentence, simply clear the input box and repeat steps 3 to 5.
 
-## Demo
-
-![Yoda Speak Translation App Demo](yoda_speak_app_demo.gif)
-
-
+## build
 
 The Yoda Speak Translation App is a client-side web application built using the following technologies:
 
