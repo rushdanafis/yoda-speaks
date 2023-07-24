@@ -1,6 +1,6 @@
 # Yoda Speak Translation App
 
-![Yoda Speak](yoda_speak.jpg)
+
 
 ## Description
 
