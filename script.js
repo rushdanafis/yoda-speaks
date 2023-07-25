@@ -14,7 +14,7 @@ function constructUrl(text){
     console.log(input.value)
     fetch(constructUrl(input.value))
     .then(response=>response.json())
-    .then(response=>{
-        output.innerText=response.content.translated
+    .then(json=>{
+        output.innerText=json.contents.translated
     })
 })
